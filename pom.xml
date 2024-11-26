@@ -7,7 +7,17 @@ http://maven.apache.org/maven-v4_0_0.xsd">
 <groupId>com.Jack</groupId> 
 <artifactId>maven-tutorial</artifactId> 
 <version>1.0</version> 
-<dependencies> </dependencies>
+<dependencies> 
+<!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
+<dependency>
+    <groupId>org.junit.jupiter</groupId>
+    <artifactId>junit-jupiter-api</artifactId>
+    <version>5.10.2</version>
+    <scope>test</scope>
+</dependency>
+
+
+</dependencies>
 <<<<<<< HEAD
 </project>
 =======
