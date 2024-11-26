@@ -1,0 +1,9 @@
+src/main/java/com/jack/Program.java
+
+src/test/java/com/jack
+
+src/main/resources
+
+src/test/resources
+
+src/main/webapp
