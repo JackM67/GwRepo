@@ -7,5 +7,5 @@ http://maven.apache.org/maven-v4_0_0.xsd">
 <groupId>com.Jack</groupId> 
 <artifactId>maven-tutorial</artifactId> 
 <version>1.0</version> 
-<dependancies> </dependancies>
+<dependencies> </dependencies>
 </project>
